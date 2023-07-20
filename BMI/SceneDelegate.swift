@@ -1,8 +1,8 @@
 //
-//  SceneDelegate.swift
+//  AppDelegate.swift
 //  BMI
 //
-//  Created by Sneh Tyagi on 20/07/23.
+//  Created by Sneh Tyagi on 10/07/23.
 //
 
 import UIKit
